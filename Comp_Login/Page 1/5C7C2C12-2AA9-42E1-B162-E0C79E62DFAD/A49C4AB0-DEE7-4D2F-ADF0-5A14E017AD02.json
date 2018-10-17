@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A49C4AB0-DEE7-4D2F-ADF0-5A14E017AD02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFCB69B7-02D8-4E11-9724-B18FD723AC82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F6ADF7E-BBCE-44D0-B869-EA5347412332",
+    "height": 667,
+    "width": 388,
+    "x": -7,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Background",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3EBCBBB-2034-4C4C-8982-9CCD20BB91D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "43D77A6B-0C44-41BE-AC7E-4DD67D8C2087",
+  "verticalSpacing": 0
+}

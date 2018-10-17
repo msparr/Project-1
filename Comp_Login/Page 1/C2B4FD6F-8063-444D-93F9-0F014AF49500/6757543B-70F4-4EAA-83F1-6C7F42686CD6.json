@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6757543B-70F4-4EAA-83F1-6C7F42686CD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39A747AE-4E92-43D8-97C3-EA8D6DD58F63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FC010E4-63BE-4050-9975-EB1CB1A53BEE",
+    "height": 132,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6413CA8-883F-4B93-B959-0DCB380A3F88",
+      "overrideName": "9AEF55B6-F461-4E69-B3FC-7ECFA366AC10_stringValue",
+      "value": "Home"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1A18DD8-F558-4BAE-93EB-9EA1232AA241",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ECA71A5F-C21D-4081-B044-3736977A5356",
+  "verticalSpacing": 0
+}

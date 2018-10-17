@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "2FC00552-20CE-4A3B-B4F3-C2DF235E6E20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "618AB09D-47CE-4C01-A5E0-31660F209B8A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FA515E74-232A-490A-AFC4-0708D995B217",
+    "height": 24,
+    "width": 24,
+    "x": 47,
+    "y": 202
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/6f9febd98f320211cb1427f679890d047c2bf896.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "facebook_circle-512 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E2791D6-51D1-4AC8-9D35-5D204B742B9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1A5083B4-610F-44CD-98FE-6C331C2B5701",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC12B415-3609-4818-8B70-9D35B9631229",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D120ADF8-8319-42CE-BD66-151B5E428BCB",
+    "height": 36,
+    "width": 137,
+    "x": 43,
+    "y": 611
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Link Button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC42D5E1-A637-467F-96F6-4761C7172DA9",
+      "overrideName": "CDE2C43D-4F41-480C-ABA3-1280C9D29D0A_stringValue",
+      "value": "Sign Up"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E4005B3-C12E-42CF-A042-E715A4C6848C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFCC5043-2C79-4E95-AE19-5D1CE18D43D1",
+  "verticalSpacing": 0
+}

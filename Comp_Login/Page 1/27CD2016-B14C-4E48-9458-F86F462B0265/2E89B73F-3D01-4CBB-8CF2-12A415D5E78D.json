@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2E89B73F-3D01-4CBB-8CF2-12A415D5E78D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "190773DC-ED93-41FC-B119-F4714927FC46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C66005C7-DD24-43B8-A64F-C03E159C9651",
+    "height": 36,
+    "width": 292,
+    "x": 41,
+    "y": 196
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Login Options Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E0EF0C3-DF17-4ACE-B5ED-249C02424FC4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B508DFE-C3DB-43E9-B55D-63B60C741603",
+  "verticalSpacing": 0
+}

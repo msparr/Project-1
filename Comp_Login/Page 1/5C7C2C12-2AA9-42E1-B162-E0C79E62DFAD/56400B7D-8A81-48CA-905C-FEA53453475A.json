@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "56400B7D-8A81-48CA-905C-FEA53453475A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "776912BF-9ECD-4C93-AE88-518B4138929B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FF0F3887-2387-415A-904B-699B600806B2",
+    "height": 24,
+    "width": 24,
+    "x": 202,
+    "y": 536
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e6e865fc8a19ebf4aa36e8821f8942aee44a724b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "2000px-Google__G__Logo.svg Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60148947-5756-4D0B-8402-DF7FD8868D0E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

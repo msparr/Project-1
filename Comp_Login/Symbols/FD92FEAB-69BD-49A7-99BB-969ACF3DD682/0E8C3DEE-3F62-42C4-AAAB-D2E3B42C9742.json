@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0E8C3DEE-3F62-42C4-AAAB-D2E3B42C9742",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0B6DBEB-E5C2-4B05-B9CE-6C8565075DF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A0CC332-D65F-42D1-8B08-A76939FB8DA8",
+    "height": 78,
+    "width": 352,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text Input Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2147553A-A6CD-46A7-BF85-01BBFA4330DF",
+      "overrideName": "09E7C3B0-DC21-4A91-B93A-0F3CB19A7FDC_stringValue",
+      "value": "Enter Code"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEBFFE28-FDD2-40AA-844C-B6FA20D189C0",
+      "overrideName": "957FB891-FEB3-4534-BB17-D91ED08024B7_stringValue",
+      "value": "###-###"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FCE6D28-FC96-4167-8A13-A474D204129F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C1D1B85-5FDC-4969-8A96-3CCA90A75A7C",
+  "verticalSpacing": 0
+}

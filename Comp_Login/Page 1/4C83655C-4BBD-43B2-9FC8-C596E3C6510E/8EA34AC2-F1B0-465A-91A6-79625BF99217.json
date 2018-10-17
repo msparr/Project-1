@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8EA34AC2-F1B0-465A-91A6-79625BF99217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28714513-7685-4BDD-95EF-A6D9BDC15677",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41983B4B-7B21-4E1C-8EAB-01C26A35CD94",
+    "height": 36,
+    "width": 137,
+    "x": 198,
+    "y": 611
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Link Button Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41F497E3-E40B-4ED9-8E6B-629462DF0FD6",
+      "overrideName": "CDE2C43D-4F41-480C-ABA3-1280C9D29D0A_stringValue",
+      "value": "Forgot"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19D1FCBF-D9A1-4D7A-BE43-BFE52A9FE1BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFCC5043-2C79-4E95-AE19-5D1CE18D43D1",
+  "verticalSpacing": 0
+}

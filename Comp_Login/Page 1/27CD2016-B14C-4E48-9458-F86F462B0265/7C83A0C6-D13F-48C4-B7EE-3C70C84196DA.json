@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7C83A0C6-D13F-48C4-B7EE-3C70C84196DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8B2422B-9B8A-435B-8CE6-1C0C786010C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F40E1EDE-C5E4-415E-B288-44A38C275F7F",
+    "height": 78,
+    "width": 352,
+    "x": 13,
+    "y": 258
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text Input Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2147553A-A6CD-46A7-BF85-01BBFA4330DF",
+      "overrideName": "09E7C3B0-DC21-4A91-B93A-0F3CB19A7FDC_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B080A10-77CF-45DA-8A23-9DD35DE4BCFF",
+      "overrideName": "957FB891-FEB3-4534-BB17-D91ED08024B7_stringValue",
+      "value": "Michelle Sparr"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71B6F7B3-1F7E-4D8B-9341-9E8CC1BC7C74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C1D1B85-5FDC-4969-8A96-3CCA90A75A7C",
+  "verticalSpacing": 0
+}

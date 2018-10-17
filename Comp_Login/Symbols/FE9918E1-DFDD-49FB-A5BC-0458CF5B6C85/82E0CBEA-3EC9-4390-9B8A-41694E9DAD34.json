@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "82E0CBEA-3EC9-4390-9B8A-41694E9DAD34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B16C72D-A4BC-4B45-967C-2B23F17D2D48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D26EDFD9-3F89-4C01-96D7-88E9020727F8",
+    "height": 36,
+    "width": 137,
+    "x": 155,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Link Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBB1713E-42ED-425F-9235-EFF8DA76781A",
+      "overrideName": "CDE2C43D-4F41-480C-ABA3-1280C9D29D0A_stringValue",
+      "value": "Google"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF670E65-5D99-49FC-8E65-2C51DEF4513D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFCC5043-2C79-4E95-AE19-5D1CE18D43D1",
+  "verticalSpacing": 0
+}

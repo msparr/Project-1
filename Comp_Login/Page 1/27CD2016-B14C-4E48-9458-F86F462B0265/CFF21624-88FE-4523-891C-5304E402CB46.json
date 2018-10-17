@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "CFF21624-88FE-4523-891C-5304E402CB46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0E8360A-F27D-441A-A7E4-6F5254F06E28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F9E9E09-B0F7-448E-9928-0B4AD00BBC17",
+    "height": 56,
+    "width": 174,
+    "x": 103,
+    "y": 595
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C092A698-31BF-442D-A9BC-7C1B5731F12A",
+      "overrideName": "556DEBB7-CD8E-43F1-B279-06BF570A17F6_stringValue",
+      "value": "Create Account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD99956D-777C-4D20-BB08-99C17DC2BF4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F2A887F-2B56-402F-AD16-0D590B5E92FF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "29156799-A7B7-45AC-BA9B-707F07EF8C94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "885173BB-D3D4-4B59-AAA4-47E4986F34CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2167F651-7DF5-4C8E-A6E5-80FC8E185CC3",
+    "height": 78,
+    "width": 352,
+    "x": 13,
+    "y": 369
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Text Input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2147553A-A6CD-46A7-BF85-01BBFA4330DF",
+      "overrideName": "09E7C3B0-DC21-4A91-B93A-0F3CB19A7FDC_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B080A10-77CF-45DA-8A23-9DD35DE4BCFF",
+      "overrideName": "957FB891-FEB3-4534-BB17-D91ED08024B7_stringValue",
+      "value": "msparrr@gmail.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1DC7749-B127-47F1-A547-C9E0FBAD7E93",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C1D1B85-5FDC-4969-8A96-3CCA90A75A7C",
+  "verticalSpacing": 0
+}

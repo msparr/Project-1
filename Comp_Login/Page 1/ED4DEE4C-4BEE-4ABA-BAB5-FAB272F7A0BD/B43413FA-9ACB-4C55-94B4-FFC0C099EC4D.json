@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B43413FA-9ACB-4C55-94B4-FFC0C099EC4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AD481A4-7C18-4E3F-B8F2-D35279DF2068",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7646D7FB-34DE-4513-840A-5176E1740EB4",
+    "height": 160,
+    "width": 352,
+    "x": 11,
+    "y": 167
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Validate Form",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDF70A10-5CA7-4C73-838D-37AAC7DC6A54",
+      "overrideName": "0E8C3DEE-3F62-42C4-AAAB-D2E3B42C9742/09E7C3B0-DC21-4A91-B93A-0F3CB19A7FDC_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C69F386-9C44-4721-A792-391EB92986F3",
+      "overrideName": "0E8C3DEE-3F62-42C4-AAAB-D2E3B42C9742/957FB891-FEB3-4534-BB17-D91ED08024B7_stringValue",
+      "value": "••••••••••••"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C3A5E2B-6DC7-47A0-8D7B-F766113A7F5C",
+      "overrideName": "D4388731-6FFE-4D36-BD81-69A207A184AE/556DEBB7-CD8E-43F1-B279-06BF570A17F6_stringValue",
+      "value": "Submit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA24D864-B9C0-41EF-AC9F-CED207EA87E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9370666F-479B-45D1-8B37-C27882456213",
+  "verticalSpacing": 0
+}

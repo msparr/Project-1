@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D4388731-6FFE-4D36-BD81-69A207A184AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0462D45A-32DC-4B25-B7A8-CD1A3E224434",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85A1E84D-2830-4430-B4F7-A4B5F4946E29",
+    "height": 56,
+    "width": 174,
+    "x": 89,
+    "y": 104
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C092A698-31BF-442D-A9BC-7C1B5731F12A",
+      "overrideName": "556DEBB7-CD8E-43F1-B279-06BF570A17F6_stringValue",
+      "value": "Verify"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3C9B3BD-B255-4D83-A1E6-326B1766A93C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F2A887F-2B56-402F-AD16-0D590B5E92FF",
+  "verticalSpacing": 0
+}

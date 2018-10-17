@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FA2F7F68-51EE-4A61-A724-E82FA4796406",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1726ED7-7B58-42FB-96A0-A79AB3933961",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DA14C79-8769-4D2E-8DF4-EE81DDB40089",
+    "height": 132,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom / Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6413CA8-883F-4B93-B959-0DCB380A3F88",
+      "overrideName": "9AEF55B6-F461-4E69-B3FC-7ECFA366AC10_stringValue",
+      "value": "Account Locked"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C83C075A-C888-48C9-9034-508584360FCA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ECA71A5F-C21D-4081-B044-3736977A5356",
+  "verticalSpacing": 0
+}

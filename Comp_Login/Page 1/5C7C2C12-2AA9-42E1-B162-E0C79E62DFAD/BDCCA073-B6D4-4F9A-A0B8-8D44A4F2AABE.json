@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "BDCCA073-B6D4-4F9A-A0B8-8D44A4F2AABE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DA0E1B2-70B4-47D9-8678-D5A0F09EC128",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38059E4F-9C64-44C4-A62B-D098038AB9C6",
+    "height": 290,
+    "width": 352,
+    "x": 11,
+    "y": 177
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / Login Form",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7C2DEE4-FF87-49D4-8ED2-97A9268EBD52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F47EB9C-E61D-4C18-90C6-941FC3FBC6A1",
+  "verticalSpacing": 0
+}

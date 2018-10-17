@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "B8BB54A8-F361-4901-A04E-A39A122E13E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "4C83655C-4BBD-43B2-9FC8-C596E3C6510E"
+    },
+    {
+      "class": "artboard",
+      "id": "5C7C2C12-2AA9-42E1-B162-E0C79E62DFAD"
+    },
+    {
+      "class": "artboard",
+      "id": "7AED1201-DE62-407B-9FD0-857BA7E51098"
+    },
+    {
+      "class": "artboard",
+      "id": "27CD2016-B14C-4E48-9458-F86F462B0265"
+    },
+    {
+      "class": "artboard",
+      "id": "24CD5F1A-F01F-4B3E-93BC-35A5DFF939D8"
+    },
+    {
+      "class": "artboard",
+      "id": "ED4DEE4C-4BEE-4ABA-BAB5-FAB272F7A0BD"
+    },
+    {
+      "class": "artboard",
+      "id": "08C60A43-CCC3-45C4-B459-FFD2CE567017"
+    },
+    {
+      "class": "artboard",
+      "id": "C2B4FD6F-8063-444D-93F9-0F014AF49500"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
